@@ -1,42 +1,74 @@
-<!-- - 👋 Hi, I’m @MinhTri420
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi fellows 👋
 
-<!---
-MinhTri420/MinhTri420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- -->
- # Hi There!!!
-My personal repository.
-
-# 💫 About Me:
-Become Dev </>
+- 🔭 I’m currently working on [CHEKCORP]
+- 💬 Ask me about everything
+- 📫 How to reach me: [Facebook]
+- ⚡ Fun fact: I share... a lot!
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/420.NEO) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tri_420) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Neo_420_) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MinhTri420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MinhTri420&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhTri420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Spotify Playing 🎧
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/31ghget3jspvgpjwbv5pcwli3smab)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MinhTri420&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@Neo42O) 
+### Tools:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/sublimetext.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/phpstorm.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/xampp.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laragon.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/docker.svg" />
+<br>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Libraries and Frameworks:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/jquery.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/laravel.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/nuxt-dot-js.svg" />
+<br>
+
+### Databases:
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/mysql.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/postgresql.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/elasticsearch.svg" />
+
+<br>
+<br>
+
+---
+
+
+### Development Stats
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C598%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 23.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Wednesday                123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Thursday                 184 commits         █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Saturday                 119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Sunday                   118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+```
+
+
+
+ Last Updated on 28/12/2023 04:38:12 UTC
+<!--END_SECTION:waka-->
+
+[Facebook]: https://fb.me/420.NEO
