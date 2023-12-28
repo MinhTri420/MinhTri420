@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on [CHEKCORP]
 - 💬 Ask me about everything
 - 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: I share... a lot!
 
 
 ### Spotify Playing 🎧
