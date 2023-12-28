@@ -6,7 +6,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />]((https://open.spotify.com/track/1qUHD9oPIMFHKpR12NY2KC?si=FaNzb6_RTdWk19kBx_COOQ))
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />]([https://open.spotify.com/track/1qUHD9oPIMFHKpR12NY2KC?si=FaNzb6_RTdWk19kBx_COOQ])
 
 ---
 
