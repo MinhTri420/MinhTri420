@@ -1,4 +1,4 @@
-### Hi fellows 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on [CHEKCORP]
 - 💬 Ask me about everything
