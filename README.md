@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [CHEKCORP]
 - 💬 Ask me about everything
-- 📫 How to reach me: [Facebook]
+- 📫 How to reach me: [Facebook] [LinkedIn]
 
 
 ### Spotify Playing 🎧
@@ -71,3 +71,4 @@ Sunday                   118 commits         ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [Facebook]: https://fb.me/420.NEO
+[LinkedIn]: https://www.linkedin.com/in/minhtridinh/
